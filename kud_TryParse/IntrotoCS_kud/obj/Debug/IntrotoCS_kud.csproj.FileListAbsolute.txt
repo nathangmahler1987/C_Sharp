@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\obj\Debug\IntrotoCS_kud.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\obj\Debug\IntrotoCS_kud.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\bin\Debug\IntrotoCS_kud.exe.config
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\bin\Debug\IntrotoCS_kud.exe
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\bin\Debug\IntrotoCS_kud.pdb
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\obj\Debug\IntrotoCS_kud.exe
+C:\Users\natem\source\repos\IntrotoCS_kud\IntrotoCS_kud\obj\Debug\IntrotoCS_kud.pdb

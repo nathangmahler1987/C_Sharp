@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\bin\Debug\static_vs_instance.exe.config
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\bin\Debug\static_vs_instance.exe
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\bin\Debug\static_vs_instance.pdb
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\obj\Debug\static_vs_instance.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\obj\Debug\static_vs_instance.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\obj\Debug\static_vs_instance.exe
+C:\Users\natem\source\repos\static_vs_instance\static_vs_instance\obj\Debug\static_vs_instance.pdb

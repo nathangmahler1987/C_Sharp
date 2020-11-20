@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\obj\Debug\kud_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\bin\Debug\kud_dowhile.exe.config
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\bin\Debug\kud_dowhile.exe
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\bin\Debug\kud_dowhile.pdb
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\obj\Debug\kud_dowhile.exe
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\obj\Debug\kud_dowhile.pdb
+C:\Users\natem\source\repos\kud_dowhile\kud_dowhile\obj\Debug\kud_dowhile.csprojAssemblyReference.cache

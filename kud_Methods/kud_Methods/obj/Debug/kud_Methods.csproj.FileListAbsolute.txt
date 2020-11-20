@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\bin\Debug\kud_Methods.exe.config
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\bin\Debug\kud_Methods.exe
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\bin\Debug\kud_Methods.pdb
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\obj\Debug\kud_Methods.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\obj\Debug\kud_Methods.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\obj\Debug\kud_Methods.exe
+C:\Users\natem\source\repos\kud_Methods\kud_Methods\obj\Debug\kud_Methods.pdb

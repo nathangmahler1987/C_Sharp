@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\obj\Debug\kud_whileloop.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\obj\Debug\kud_whileloop.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\bin\Debug\kud_whileloop.exe.config
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\bin\Debug\kud_whileloop.exe
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\bin\Debug\kud_whileloop.pdb
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\obj\Debug\kud_whileloop.exe
+C:\Users\natem\source\repos\kud_whileloop\kud_whileloop\obj\Debug\kud_whileloop.pdb

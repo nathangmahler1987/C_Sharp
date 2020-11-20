@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\bin\Debug\kud_inheritance.exe.config
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\bin\Debug\kud_inheritance.exe
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\bin\Debug\kud_inheritance.pdb
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\obj\Debug\kud_inheritance.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\obj\Debug\kud_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\obj\Debug\kud_inheritance.exe
+C:\Users\natem\source\repos\kud_inheritance\kud_inheritance\obj\Debug\kud_inheritance.pdb

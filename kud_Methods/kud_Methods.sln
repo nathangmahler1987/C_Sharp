@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kud_Methods", "kud_Methods\kud_Methods.csproj", "{3ADBA7F9-B2BE-4B24-97B4-7B12BF02C8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADBA7F9-B2BE-4B24-97B4-7B12BF02C8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADBA7F9-B2BE-4B24-97B4-7B12BF02C8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADBA7F9-B2BE-4B24-97B4-7B12BF02C8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADBA7F9-B2BE-4B24-97B4-7B12BF02C8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D01095-2D0E-4782-8D0E-3055525F171D}
+	EndGlobalSection
+EndGlobal

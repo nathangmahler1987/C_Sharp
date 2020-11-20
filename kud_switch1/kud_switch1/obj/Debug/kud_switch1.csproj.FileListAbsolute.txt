@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\obj\Debug\kud_switch1.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\obj\Debug\kud_switch1.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\bin\Debug\kud_switch1.exe.config
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\bin\Debug\kud_switch1.exe
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\bin\Debug\kud_switch1.pdb
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\obj\Debug\kud_switch1.exe
+C:\Users\natem\source\repos\kud_switch1\kud_switch1\obj\Debug\kud_switch1.pdb

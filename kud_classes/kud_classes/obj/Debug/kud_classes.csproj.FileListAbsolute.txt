@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_classes\kud_classes\bin\Debug\kud_classes.exe.config
+C:\Users\natem\source\repos\kud_classes\kud_classes\bin\Debug\kud_classes.exe
+C:\Users\natem\source\repos\kud_classes\kud_classes\bin\Debug\kud_classes.pdb
+C:\Users\natem\source\repos\kud_classes\kud_classes\obj\Debug\kud_classes.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_classes\kud_classes\obj\Debug\kud_classes.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_classes\kud_classes\obj\Debug\kud_classes.exe
+C:\Users\natem\source\repos\kud_classes\kud_classes\obj\Debug\kud_classes.pdb

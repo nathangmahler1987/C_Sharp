@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\bin\Debug\kud_MethodParameters.exe.config
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\bin\Debug\kud_MethodParameters.exe
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\bin\Debug\kud_MethodParameters.pdb
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\obj\Debug\kud_MethodParameters.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\obj\Debug\kud_MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\obj\Debug\kud_MethodParameters.exe
+C:\Users\natem\source\repos\kud_MethodParameters\kud_MethodParameters\obj\Debug\kud_MethodParameters.pdb

@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\forandforeach\forandforeach\bin\Debug\forandforeach.exe.config
+C:\Users\natem\source\repos\forandforeach\forandforeach\bin\Debug\forandforeach.exe
+C:\Users\natem\source\repos\forandforeach\forandforeach\bin\Debug\forandforeach.pdb
+C:\Users\natem\source\repos\forandforeach\forandforeach\obj\Debug\forandforeach.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\forandforeach\forandforeach\obj\Debug\forandforeach.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\forandforeach\forandforeach\obj\Debug\forandforeach.exe
+C:\Users\natem\source\repos\forandforeach\forandforeach\obj\Debug\forandforeach.pdb

@@ -1,0 +1,7 @@
+C:\Users\natem\source\repos\kud_IF\kud_IF\bin\Debug\kud_IF.exe.config
+C:\Users\natem\source\repos\kud_IF\kud_IF\bin\Debug\kud_IF.exe
+C:\Users\natem\source\repos\kud_IF\kud_IF\bin\Debug\kud_IF.pdb
+C:\Users\natem\source\repos\kud_IF\kud_IF\obj\Debug\kud_IF.csprojAssemblyReference.cache
+C:\Users\natem\source\repos\kud_IF\kud_IF\obj\Debug\kud_IF.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\kud_IF\kud_IF\obj\Debug\kud_IF.exe
+C:\Users\natem\source\repos\kud_IF\kud_IF\obj\Debug\kud_IF.pdb
